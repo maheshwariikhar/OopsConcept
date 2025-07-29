@@ -6,7 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <ApplicationManifest>app.manifest</ApplicationManifest>
-    <StartupObject>OopsConcept.NonGenericCollection</StartupObject>
+    <StartupObject>OopsConcept.TestInterface</StartupObject>
   </PropertyGroup>
 
 </Project>
