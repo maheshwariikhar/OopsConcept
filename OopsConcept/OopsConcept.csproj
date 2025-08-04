@@ -6,7 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <ApplicationManifest>app.manifest</ApplicationManifest>
-    <StartupObject>OopsConcept.SwitchCase</StartupObject>
+    <StartupObject>OopsConcept.CopyConstructor</StartupObject>
   </PropertyGroup>
 
 </Project>
