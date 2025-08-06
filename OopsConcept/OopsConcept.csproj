@@ -6,7 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <ApplicationManifest>app.manifest</ApplicationManifest>
-    <StartupObject>OopsConcept.CopyConstructor</StartupObject>
+    <StartupObject>OopsConcept.MultiDelegates</StartupObject>
   </PropertyGroup>
 
 </Project>
