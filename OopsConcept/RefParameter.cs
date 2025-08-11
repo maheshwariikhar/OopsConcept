@@ -19,7 +19,7 @@ namespace OopsConcept
 
             // Calling method
             IncrementValue(ref incnumber);
-            Console.WriteLine("After Increment Ref Parameter:" + incnumber);
+            Console.WriteLine("After Increment Out Parameter:" + incnumber);
         }
 
     }
