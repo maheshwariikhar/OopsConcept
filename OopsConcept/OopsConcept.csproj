@@ -6,7 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <ApplicationManifest>app.manifest</ApplicationManifest>
-    <StartupObject>OopsConcept.MultiDelegates</StartupObject>
+    <StartupObject>OopsConcept.UserService</StartupObject>
   </PropertyGroup>
 
 </Project>
